@@ -1,5 +1,5 @@
 # blockchain
-BlokjesKetting = Innovation never get's old
+BlokjesKetting = Innovation never gets old
 
                               $
                               :$$
